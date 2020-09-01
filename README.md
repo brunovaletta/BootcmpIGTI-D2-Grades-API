@@ -9,6 +9,6 @@ Insomnia was used to access and test the endpoints.
 Here are some previews: 
 
 <br>
-<img src="./previews/preview3.png>
-<img src="./previews/preview1.png>
-<img src="./previews/preview2.png>
+<img src="./previews/preview3.png">
+<img src="./previews/preview1.png">
+<img src="./previews/preview2.png">
